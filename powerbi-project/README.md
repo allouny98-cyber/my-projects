@@ -7,6 +7,7 @@ The dashboard consolidates data from multiple sources and provides
 help understand the gaming market.
 
 ## Objectives
+
 - Consolidate and model video games data in Power BI
 - Build interactive KPI dashboards across 5 thematic pages
 - Enable filtering and drill-down by genre, platform, developer, and year
@@ -62,4 +63,4 @@ Game quality (Metascore) analysis and time-based trends.
 3. Interact with the filters and slicers
 
 ## Author
-Yoni Allouche — [allouny98@gmail.com](mailto:allouny98@gmail.com)
+Yoni Alloun — [allouny98@gmail.com](mailto:allouny98@gmail.com)
