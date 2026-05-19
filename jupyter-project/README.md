@@ -47,4 +47,4 @@ To reproduce the analysis, you would need to:
 so you can view the full analysis without running the code.
 
 ## Author
-Yoni Allouche — [allouny98@gmail.com](mailto:allouny98@gmail.com)
+Yoni Alloun — [allouny98@gmail.com](mailto:allouny98@gmail.com)
