@@ -1,4 +1,4 @@
-# Data Analyst Portfolio — Yoni Allouche
+# Data Analyst Portfolio — Yoni Alloun
 
 Welcome to my data analytics portfolio.  
 This repository gathers the projects I have built throughout my training, 
