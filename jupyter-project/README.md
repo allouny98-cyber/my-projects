@@ -25,7 +25,7 @@ to clean, transform, and visualize insights about games, developers, and platfor
 - Tables joined: Games, Developers, Genres, Platforms, GamePlatforms
 
 ## Files
-- `YONI_ALLOUN_.ipynb` — main analysis notebook (all outputs included)
+- `jupyter_project.ipynb` — main analysis notebook (all outputs included)
 
 ## Key Findings
 The notebook explores several questions, including:
