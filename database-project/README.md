@@ -29,4 +29,4 @@ The project covers schema design, table creation, relationships between entities
 3. Price trends across platforms and years
 
 ## Author
-Yoni Allouche — [allouny98@gmail.com](mailto:allouny98@gmail.com)
+Yoni Alloun — [allouny98@gmail.com](mailto:allouny98@gmail.com)
